@@ -1,0 +1,48 @@
+body
+{
+ text-align: center;  
+     margin: 0px;
+    background-color: black;
+}
+h2
+{
+    color: white;
+}
+main
+{
+    max-width: 600px;
+    margin: auto;
+}
+/* div
+{
+    max-width: 1000px;
+    height: 500px;
+    margin: auto;
+    color: white;
+    background-color: rgb(29, 27, 27);
+} */
+input
+{
+    font-size: 1.3rem;
+    height: 40px;
+    width: 500px;
+    background-color: rgb(77, 71, 71);
+    color: white;
+    display: block;
+    margin: 1rem;
+}
+button
+{
+    font-size: 1.3rem;
+    height: 40px;
+    width: 510px;
+    background-color: rgb(24, 24, 141);
+    color: white;
+    display: block;
+    margin: 1rem;
+    border: none;
+}
+.result
+{
+    font-size: 1.5rem;
+}
